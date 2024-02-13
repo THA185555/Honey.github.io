@@ -30,7 +30,7 @@ body {
   color: #fff;
   text-decoration: none;
   border: none;
-  border-radius: 5px;
+  border-radius: 15px;
   cursor: pointer;
   margin-right: 200px;
 }
@@ -41,6 +41,6 @@ body {
   color: #fff;
   text-decoration: none;
   border: none;
-  border-radius: 5px;
+  border-radius: 15px;
   cursor: pointer;
 }
